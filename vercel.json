@@ -1,0 +1,9 @@
+{
+  "framework": null,
+  "outputDirectory": "public",
+  "functions": {
+    "api/rsvp.js": {
+      "maxDuration": 30
+    }
+  }
+}

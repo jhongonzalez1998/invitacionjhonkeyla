@@ -1,4 +1,4 @@
-# Invitación Jhon & Keyla — Vercel
+# Invitación Jhon & Keyla — Vercel FISICA
 
 1. Descomprime el ZIP. Crea un repositorio privado en GitHub.
 2. Sube el CONTENIDO de esta carpeta, no el ZIP ni una carpeta contenedora adicional. En la raíz deben aparecer api/, lib/, public/, package.json y vercel.json.
